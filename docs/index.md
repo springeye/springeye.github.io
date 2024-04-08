@@ -5,21 +5,21 @@ layout: home
 hero:
   name: "陈小厨的个人小站"
   text: "陈小厨的技术分享"
-  tagline: My great project tagline
+  tagline: 陈小厨 vue 前端
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Markdown示例
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: API示例
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 功能 A
+    details: 待补充
+  - title: 功能 B
+    details: 待补充
+  - title: 功能 C
+    details: 待补充
 ---
 
