@@ -23,6 +23,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+    footer:{
+      message: '蜀ICP备19040810号',
+      copyright: 'Copyright © 2024-present 陈小厨'
+    }
   }
 })
