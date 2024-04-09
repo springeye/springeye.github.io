@@ -8,8 +8,6 @@ VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shi
 
 **Input**
 
-![图片](gonaganbeian.png)
-
 
 ````md
 ```js{4}
