@@ -24,9 +24,9 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
-    footer:{
-      message: '蜀ICP备19040810号',
-      copyright: 'Copyright © 2024-present 陈小厨'
-    }
+    // footer:{
+    //   message: '<img src="./gonganbeian.png"/><a href="https://beian.mps.gov.cn/#/query/webSearch?code=51015602000879" rel="noreferrer" target="_blank">川公网安备51015602000879</a>蜀ICP备19040810号',
+    //   copyright: 'Copyright © 2024-present 陈小厨'
+    // }
   }
 })
